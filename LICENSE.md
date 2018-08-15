@@ -1,8 +1,8 @@
-# http://kcak11.mit-license.org
+# https://mit-license.kcak11.com
 
 MIT License
 
-Copyright (c) 2017 K.C.Ashish Kumar
+Copyright (c) 2018 K.C.Ashish Kumar
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
